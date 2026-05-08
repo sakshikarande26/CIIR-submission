@@ -1,4 +1,6 @@
-# Agentic Search - Built for CIIR-UMass Amherst
+# Agentic Search 
+
+Built for CIIR-UMass Amherst
 
 A structured entity extraction system that takes a natural language query, searches the web, and produces a table of entities with attributed values — each traceable to its exact source passage.
 
